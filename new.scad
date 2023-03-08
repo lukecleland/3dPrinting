@@ -1,0 +1,1 @@
+import("/Users/lukecleland/Downloads/Two_Parts_Spool_Holder_for_TEVO_Michelangelo/files/Spoolholder_Part2.stl", convexity=3);
